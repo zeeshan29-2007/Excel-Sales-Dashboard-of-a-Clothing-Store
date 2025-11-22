@@ -10,9 +10,13 @@ This repository contains a professionally designed Sales Dashboard developed in 
 The dashboard provides multi-dimensional analysis across the following categories:
 
 Monthly Sales Analysis – Highlights revenue trends, growth patterns, and seasonal variations.
+
 Area-Wise Sales Distribution – Compares sales performance across major locations to identify strong and underperforming regions.
+
 Dealer Performance Analysis – Ranks dealers based on contribution, enabling quick identification of top and low performers.
+
 Product Category Insights – Shows revenue breakdown across product categories for better assortment and inventory decisions.
+
 Interactive Filters (Slicers) – Dynamic filtering by Month, Dealer, Area, and Product for tailored insight exploration.
 
 KPI Cards summarizing:
