@@ -22,17 +22,25 @@ Interactive Filters (Slicers) – Dynamic filtering by Month, Dealer, Area, and 
 KPI Cards summarizing:
 
 Total Sales: Rs 35.54M
+
 Total Cost: Rs 17.10M
+
 Total Profit: Rs 18.44M
+
 Total Quantity Sold: 18,921 units
 
 🛠️ Technical Capabilities Demonstrated
 
 Data cleaning and transformation in Excel
+
 Star-schema style data modeling using fact and dimension tables
+
 PivotTables and PivotCharts for analytical reporting
+
 Advanced dashboard layout, formatting, and slicer synchronization
+
 KPI calculation and performance measurement
+
 Retail sales analytics and business intelligence concepts
 
 🎯 Project Objective
